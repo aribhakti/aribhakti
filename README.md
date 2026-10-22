@@ -1,6 +1,6 @@
 # Hi, I'm Ari Bhakti Subagja
 
-Chief Product Officer at [Etalas](https://etalas.com). I have spent 14 years in payments, digital identity and fintech product management, and I now build AI-native products and ship client platforms with distributed teams.
+Chief Product Officer at [Etalas](https://etalas.com). I have spent 17 years in payments, digital identity and fintech product management, and I now build AI-native products and ship client platforms with distributed teams.
 
 ## What I work on
 
@@ -17,7 +17,7 @@ Chief Product Officer at [Etalas](https://etalas.com). I have spent 14 years in 
 | Mar 2022 to Jun 2024 | Senior Product Manager | VIDA Digital Identity |
 | Jan 2019 to Nov 2021 | Product Manager | GOJEK (GoMerchants) |
 | Jan 2016 to Dec 2018 | Product Manager | Kartuku |
-| 2012 to 2015 | Project Manager and QA | Artajasa, Telkomsigma, Jati Piranti Solusindo |
+| 2009 to 2015 | QA, then Project Manager | Artajasa, Telkomsigma, Jati Piranti Solusindo |
 
 Education: Master in Communication Management (University of Indonesia), Bachelor in Information and Technology (BINUS University).
 
