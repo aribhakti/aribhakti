@@ -34,4 +34,4 @@ Most of my client work is private.
 ## Connect
 
 - Website: [subagja.com](https://subagja.com)
-- LinkedIn: [aribhaktisubagjacreate](https://www.linkedin.com/in/aribhaktisubagjacreate)
+- LinkedIn: [aribhaktisubagja](https://www.linkedin.com/in/aribhaktisubagja)
